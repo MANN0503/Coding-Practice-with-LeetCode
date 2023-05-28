@@ -4,7 +4,7 @@ int oneDigit(int num)
 {
 	return (num >= 0 && num < 10);
 }
-bool isPalUtil(int num, int* dupNum)
+bool isPalUtil(int num, int* dupNu)
 {
 	if (oneDigit(num))
 		return (num == (*dupNum) % 10);
