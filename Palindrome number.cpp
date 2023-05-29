@@ -12,7 +12,7 @@ bool isPalUtil(int num, int* dupNum)
 		return false;
 	*dupNum /= 10;
 	
-	return (num % 10 == (*dupNum) % 10);		
+	return (num % 10 = (*dupNum) % 10);		
 }
 
 int isPal(int num)
