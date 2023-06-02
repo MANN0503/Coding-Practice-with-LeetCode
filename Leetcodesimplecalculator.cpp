@@ -6,7 +6,7 @@ int main(){
 	float n1,n2;
 	cout<<"Enter value for n1: ";
 	cin>>n1;
-	cout<<"Enter vale for n2: ";
+	cout<<"Enter value for n2: ";
 	cin>>n2;
 	
 	char Operation;
