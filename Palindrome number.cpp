@@ -1,5 +1,5 @@
 #include<iostream>
-using namespace std;
+using namespae std;
 int oneDigit(int num)
 {
 	return (num >= 0 && num < 10);
